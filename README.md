@@ -41,7 +41,7 @@ The project is released with a working example for the [`contratos`](https://git
 
 ## License
 
-This project is released under [**WTFPL** or *What The Fuck Public License](https://es.wikipedia.org/wiki/WTFPL).
+This project is released under [**WTFPL** or *What The Fuck Public License*](https://es.wikipedia.org/wiki/WTFPL), which means *do what you want with it*.
 
 ## Issues
 
